@@ -1,0 +1,23 @@
+{
+    "0001":{
+            "name":"Little Kid",
+            "image_src":"child_sprite_model.png",
+            "direction":"right",
+            "lines":[
+                "Hi.",
+                "I'm just a little kid.",
+                "Why are you talking to me?"
+            ]
+    },
+    "0002":{
+            "name":"First Lady",
+            "image_src":"female_sprite_model.png",
+            "direction":"down",
+            "lines":[
+                "Hello there.",
+                "My name is Michelle Obama.",
+                "Why am I naked?!?!?"
+            ]
+    }
+    
+}
